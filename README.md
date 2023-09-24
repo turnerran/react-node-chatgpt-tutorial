@@ -35,4 +35,5 @@ Clone the repository from GitHub.
 # Contributions:
 
 Contributions to this project are welcome! Feel free to fork the repository, make improvements, or add new features. Whether you're a beginner looking to learn about AI integration or an experienced developer seeking a solid foundation for chatbot development, this project offers valuable insights and resources.
+
 Explore the power of AI-driven chat applications by trying out the React Node ChatGPT Sample project today!
