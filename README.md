@@ -27,10 +27,16 @@ The front end captures user input and sends it to the backend for processing thr
 To use this sample project, follow these steps:
 
 Clone the repository from GitHub.
-1. Set up your OpenAI API credentials and configure them in the backend.
-2. Install the dependencies using npm both the frontend and backend.
-3. Start the backend server by exectuing the following command in the backend folder `npm ./index.js`
-4. Boot the react app by exectuing the following command in the front end folder `npm run run ./index.js`
+1. Set up your OpenAI API credentials.
+2. Create a `.env` file in the backend folder.
+3. Add the following keys and their values to the `.env file`: 
+```
+ORGANIZATION=YOUR-ORGANISATION
+API_KEY=YOUR-API-KEY
+```
+4. Install the dependencies using npm both the frontend and backend.
+5. Start the backend server by exectuing the following command in the backend folder `npm ./index.js`
+6. Boot up the react app by exectuing the following command in the frontend folder `npm run run ./index.js` and open the browser
 
 # Contributions:
 
